@@ -15,18 +15,18 @@ name                     : &name "Siying (Sydney) Ma"
 description              : &description "Siying (Sydney) Ma is a Ph.D. student in Statistics at Simon Fraser University, specializing in Scientific machine learning, mathematical and statistical modelling, and disease analytics. Siying completed her Master of Science in Statistics at the University of Victoria, where she developed disease analytic models based on ecological frameworks to estimate underreported COVID-19 cases. She also holds a Bachelor of Science in Statistics from East China Normal University, where her undergraduate research focused on eQTL analysis with auxiliary information."
 url                      : https://siying-ma.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "siying-ma/siying-ma.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_pic.jpg"
   name             : "Siying (Sydney) Ma"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Statistics"
-  location         : "Vancouver, Canada"
+  location         : "Vancouver / Shanghai"
   employer         : "Simon Fraser  University"
   uri              : # URL
   email            : "siying_ma@sfu.ca" 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "siying-ma"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
