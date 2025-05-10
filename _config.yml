@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Siying (Sydney) Ma"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Siying (Sydney) Ma"
+description              : &description "Siying (Sydney) Ma is a Ph.D. student in Statistics at Simon Fraser University, specializing in Scientific machine learning, mathematical and statistical modelling, and disease analytics. Siying completed her Master of Science in Statistics at the University of Victoria, where she developed disease analytic models based on ecological frameworks to estimate underreported COVID-19 cases. She also holds a Bachelor of Science in Statistics from East China Normal University, where her undergraduate research focused on eQTL analysis with auxiliary information."
+url                      : https://siyingma.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Siying (Sydney) Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. student in Statistics"
+  location         : "Vancouver, Canada"
+  employer         : "Simon Fraser  University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "siying_ma@sfu.ca" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Siying Ma
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
