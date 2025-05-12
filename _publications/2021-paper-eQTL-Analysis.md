@@ -2,7 +2,7 @@
 title: " eQTL Analysis with Auxiliary Information based on Multivariate Normal Hierarchical Bayesian Model."
 collection: publications
 category: manuscripts
-permalink: /publication/2021-paper-eQTL-Analysis
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Developed the multivariate normal hierarchical Bayesian model for the eQTL data and proposed both Oracle process and data­-driven process for application, aiming to use auxiliary information to construct a new statistical framework for eQTL analysis to improve the effectiveness of methods on identifying the eQTL effects. '
 date: 2021
 venue: 'Undergraduate Thesis, East China Normal University (ECNU), Shanghai, China'
