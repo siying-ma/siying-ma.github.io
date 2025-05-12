@@ -11,7 +11,7 @@ Welcome to my personal website! I am a first-year Ph.D. student in Statistics un
 
 Latest News
 ======
-Accepted by [Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon](https://www.pims.math.ca/events/250616-spscamlssah)
-Joined [Pacific Institute on Pathogens, Pandemics and Society (PIPPS)](https://www.sfu.ca/pipps/about/team/siyingma.html)
-Completed [Visual and Automated Disease Analytics (VADA) Graduate Training Program](https://vada.cs.umanitoba.ca/profiles/siying-ma/)  
+- Accepted by [Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon](https://www.pims.math.ca/events/250616-spscamlssah)
+- Joined [Pacific Institute on Pathogens, Pandemics and Society (PIPPS)](https://www.sfu.ca/pipps/about/team/siyingma.html)
+- Completed [Visual and Automated Disease Analytics (VADA) Graduate Training Program](https://vada.cs.umanitoba.ca/profiles/siying-ma/)  
 
